@@ -1041,9 +1041,6 @@ html {
   scroll-snap-align: start;
   scroll-snap-stop: normal;
 }
-
-/* Disable snapping on smaller screens */
-@media (max-width: 760px) 
 /* =====================================
    RCB PREMIUM MOBILE RESPONSIVE SYSTEM
 ===================================== */
